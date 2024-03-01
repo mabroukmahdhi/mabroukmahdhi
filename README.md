@@ -1,7 +1,7 @@
 # Hey there, I'm Mabrouk,
 
 ## Connect with me:
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/mabrouk_mahdhi)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/mabrouk_mahdhi)](https://twitter.com/mabrouk_mahdhi)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrymSMi29NT_xBC0dTZPy3w?style=social) 
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mabroukmahdhi)
 
