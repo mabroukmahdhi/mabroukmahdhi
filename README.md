@@ -6,13 +6,13 @@
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mabroukmahdhi)
 
 ## About Me:
-Mabrouk is a Principal Software Engineer at B&O Service AG and a Microsoft MVP. He specializes in .NET technologies, including Blazor, ASP.NET, and .NET MAUI. His expertise extends to developing powerful web applications, APIs, and robust databases. Mabrouk's contributions to the tech community are significant, not only through development but also through sharing his deep knowledge, which fosters collective growth and innovation. His book, '[Laughing at Null: A Humorous Guide to Software Life](https://amzn.eu/d/cbfHN8K)', offers a lighthearted yet insightful look into the world of software development.
+Mabrouk is a Principal Software Engineer at **[B&O Service AG](https://buo.de/service/)** and a Microsoft MVP. He specializes in .NET technologies, including Blazor, ASP.NET, and .NET MAUI. His expertise extends to developing powerful web applications, APIs, and robust databases. Mabrouk's contributions to the tech community are significant, not only through development but also through sharing his deep knowledge, which fosters collective growth and innovation. His book, '[Laughing at Null: A Humorous Guide to Software Life](https://amzn.eu/d/cbfHN8K)', offers a lighthearted yet insightful look into the world of software development.
 
 [![MVP_Badge_Secondary_DarkBlue7694_RGB](https://github.com/mabroukmahdhi/mabroukmahdhi/assets/16063715/559e29be-dd28-41aa-a7cd-4d97fbdd16a3)](https://mvp.microsoft.com/en-US/mvp/profile/f35dd202-f4e7-486d-9373-fc09329bbddb)
 
 ## About my book
 ### Title
-Laughing at Null: A
+Laughing at Null: A Humorous Guide to Software Life
 ### Intro
 Discover "Laughing at Null: A Humorous Guide to Software Life" – a unique journey into the captivating world of software engineering, where code meets comedy and tech meets tomfoolery.
 
