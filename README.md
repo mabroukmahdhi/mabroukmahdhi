@@ -6,7 +6,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mabroukmahdhi)
 
 ## About Me:
-I'm Mabrouk, a Software Engineer, Microsoft MVP, and the founder of [CodeCampsis UG](https://codecampsis.com). I specialize in .NET technologies, including Blazor, ASP.NET, and .NET MAUI. My expertise spans developing powerful web applications, APIs, and robust databases. I actively contribute to the tech community by sharing my deep knowledge to foster collective growth and innovation. My book, '[Laughing at Null: A Humorous Guide to Software Life](https://amzn.eu/d/cbfHN8K)', offers a lighthearted yet insightful perspective on the world of software development.
+I'm Mabrouk, a Software Engineer, Microsoft MVP. I specialize in .NET technologies, including Blazor, ASP.NET, and .NET MAUI. My expertise spans developing powerful web applications, APIs, and robust databases. I actively contribute to the tech community by sharing my deep knowledge to foster collective growth and innovation. My book, '[Laughing at Null: A Humorous Guide to Software Life](https://amzn.eu/d/cbfHN8K)', offers a lighthearted yet insightful perspective on the world of software development.
 
 [![MVP_Badge_Secondary_DarkBlue7694_RGB](https://github.com/mabroukmahdhi/mabroukmahdhi/assets/16063715/559e29be-dd28-41aa-a7cd-4d97fbdd16a3)](https://mvp.microsoft.com/en-US/mvp/profile/f35dd202-f4e7-486d-9373-fc09329bbddb)
 
