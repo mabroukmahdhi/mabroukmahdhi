@@ -6,9 +6,9 @@
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mabroukmahdhi)
 
 ## About Me:
-Mabrouk is a Software Engineer/ Consultant @ Xebia Germany and a Microsoft MVP. He specializes in .NET technologies including Blazor, ASP.NET, and .NET MAUI. His expertise extends to developing powerful web applications, APIs, and robust databases. Mabrouk is the founder of Tunisia Dev Days, one of the largest .NET conferences in North Africa.
+Mabrouk Mahdhi is the Founder and Managing Director of [Prosiria](https://prosiria.com/), a technology company focused on building innovative software solutions, developer tools, and cloud-based platforms. A Principal Software Engineer and recognized Microsoft Most Valuable Professional (MVP) in .NET technologies, he specializes in modern software architecture, distributed systems, AI-powered applications, and the Microsoft technology stack.
 
-[![MVP_Badge_Secondary_DarkBlue7694_RGB](https://github.com/mabroukmahdhi/mabroukmahdhi/assets/16063715/559e29be-dd28-41aa-a7cd-4d97fbdd16a3)](https://mvp.microsoft.com/en-US/mvp/profile/f35dd202-f4e7-486d-9373-fc09329bbddb)
+<img width="1440" height="540" alt="MVP_Digital_RGB_38_badge_grayscale" src="https://github.com/user-attachments/assets/6023f0e4-1400-49bb-bccc-d2cf26d8f766" />
 
 ## My books
 [![image](https://github.com/user-attachments/assets/e0e8bd90-7e12-40d5-a6d8-915beeb7314e)](https://amzn.eu/d/cbfHN8K)
